@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logger>
+ <level>INFO</level>
+ <docName>Start Flow</docName> 
+ <message>Start Flow</message>
+ </logger>
